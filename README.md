@@ -1,2 +1,2 @@
 # Digital-Nurture-Practice
-Here I post the assignments, completing during my Digital-Nurture-4.0-JavaFSE program.
+I post my assignments here, completed during the Digital-Nurture-4.0-JavaFSE program.
